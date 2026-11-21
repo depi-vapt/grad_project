@@ -1,8 +1,4 @@
-# 🔐 Hash Cracker
-
-<p align="center">
-  An Advanced Password Cracking & Cryptographic Auditing Tool
-</p>
+# Hash Cracker
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
@@ -20,7 +16,6 @@ The project goes beyond traditional hash cracking by introducing **Hash Awarenes
 ## ✨ Key Features
 
 - 🔍 **Hash Identification:** Automatically identify hash algorithms such as MD5, SHA-256, and NTLM.
-- 🧂 **Salt Awareness:** Detect and handle salted hashes.
 - 🧠 **Hash Awareness:** Analyze hash characteristics, security levels, and potential weaknesses.
 - 📖 **Dictionary Attack:** Test password candidates using custom wordlists.
 - ⚡ **Brute Force Attack:** Perform controlled password recovery operations.
@@ -52,25 +47,18 @@ The project goes beyond traditional hash cracking by introducing **Hash Awarenes
 
 ## 👥 Our Team
 
-*Meet the developers behind Hash Cracker.*
+| Team Member |
+|---|
+| Adham Eldouh |
+| Mohamed Shehab | 
+| Mahmoud Ramadan | 
+| Ahmed Mostafa |
+| Omar Mahmoud  |
+| Marwan Ahmed  |
 
-| Team Member | Role |
-|---|---|
-| Member 1 | To be announced |
-| Member 2 | To be announced |
-| Member 3 | To be announced |
-| Member 4 | To be announced |
-| Member 5 | To be announced |
 
-## 🎯 Project Objective
-
-Our goal is to develop an integrated educational security auditing tool that demonstrates cryptographic concepts, password vulnerabilities, hashing mechanisms, and performance optimization techniques.
-
----
 
 <p align="center">
-  Developed with ❤️ by the Hash Cracker Team
-  <br>
-  <sub>Cybersecurity • Cryptography • Python</sub>
+  <sub>Cybersecurity • PenTesting</sub>
 </p>
 
